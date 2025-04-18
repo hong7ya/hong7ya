@@ -16,7 +16,7 @@
 
 2025-02-03 ~ 2025-03-02 (기획 1주, 개발 3주) | 개인
 
-🎬 [시연 영상](https://www.youtube.com/watch?v=ft9zQljooL8) | 🌎 [배포 주소](https://landing.backdo.site/) | 📂 [리드미](https://github.com/GoToPrevLine/devtools-frontend?tab=readme-ov-file#backdo)
+🎬 [시연 영상](https://www.youtube.com/watch?v=ft9zQljooL8) | 🌎 [배포 주소](https://landing.backdo.site/) | 📂 [리드미](https://github.com/hong7ya/backdo-devtools-frontend?tab=readme-ov-file#backdo)
 
 ---
 
